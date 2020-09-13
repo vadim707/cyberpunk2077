@@ -1,0 +1,29 @@
+body{
+  background-image:url(cyberpunk-2077.jpg);
+  background-size:contain;
+  background-attachment:fixed;
+  color:red;
+}
+i{
+  font-size:50px;
+}
+li{
+  color:yellow;
+}  
+#cyb:first-letter{
+  color:yellow;
+}
+a{
+  color:white;
+}
+a:hover{
+  color:yellow;
+}
+#car{
+  color:#ffff00;
+  font-size:45px;
+}
+#weapon{
+  font-family:Monotype Corsiva;
+  font-size:40px;
+}	
